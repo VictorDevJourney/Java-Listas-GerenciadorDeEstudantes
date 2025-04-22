@@ -4,6 +4,6 @@ Um sistema simples em Java para gerenciar uma lista de estudantes, permitindo ad
 
 ## Conceitos Abordados:
 
-- **Listas
-- **Herança
-- **Comparação de Objetos
+- **Listas**
+- **Herança**
+- **Comparação de Objetos**
